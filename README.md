@@ -8,7 +8,7 @@ npm install
 
 ## Iniciar migraciones
 
-inicia las migraciones de la base de datos con el siguiente comando
+primero crea la base de datos llamada sequelize y despues inicia las migraciones de la base de datos con el siguiente comando
 
 ```bash
 npx sequelize-cli db:migrate
